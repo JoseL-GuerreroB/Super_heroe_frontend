@@ -1,0 +1,16 @@
+.content_form {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.form {
+  width: 50%;
+  border-radius: 20px;
+  padding: 20px;
+  min-height: 300px;
+  background-color: #fff;
+}
